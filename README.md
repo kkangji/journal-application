@@ -4,7 +4,7 @@ CUSTOM YOUR JOURNAL
 ![image](https://github.com/kkangji/journal-application/assets/14368343/e8490766-4618-48b7-beec-71066f24ce77)
 
 
-https://journal-application.vercel.app/
+
 
 
 ### Install packages
